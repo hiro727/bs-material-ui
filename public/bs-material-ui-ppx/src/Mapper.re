@@ -14,7 +14,7 @@ let withStylesMapper = _argv => {
                 {
                   pexp_desc:
                     [@implicit_arity]
-                    Pexp_extension({txt: "mui.withStyles"}, pstr),
+                    Pexp_extension({txt: "muihooks.withStyles"}, pstr),
                 },
                 _,
               ),
